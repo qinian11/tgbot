@@ -6,7 +6,7 @@ from handlers.conversation import handle_user_input
 from services.database import init_db
 
 
-TOKEN = "7285003048:AAEscHyR5pSuhFrFtvPpAcD2G0Fe1pdyI9A"
+TOKEN = "bot"
 def main():
     # 初始化数据库
     init_db()
