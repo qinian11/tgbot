@@ -11,5 +11,4 @@ telegram_bot/
 │   ├── resources.py        # 爬取资源和存储逻辑
 ├── main.py                 # 程序主入口
 └── requirements.txt        # 项目依赖
-├── README.md                  # 项目说明
-└── 会员.jpg                   # start 命令中返回的图片
+└── README.md                  # 项目说明
